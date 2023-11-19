@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wildwr
-- 👀 I’m interested in ... coding,gaming cooking etc.
-- 🌱 I’m currently learning ... coding
+- 👀 I’m interested in coding,gaming cooking etc.
+- 🌱 I’m currently learning coding
 
 <!---
 Wildwr/Wildwr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
